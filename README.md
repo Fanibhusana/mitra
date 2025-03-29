@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/your-repo-name/ci.yml)](https://github.com/your-username/your-repo-name/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Fanibhusana/mitra/ci.yml)](https://github.com/Fanibhusana/mitra/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/your-username/your-repo-name/releases)
 
