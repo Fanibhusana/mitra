@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Project Logo](path/to/logo.png)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/your-repo-name/ci.yml)](https://github.com/your-username/your-repo-name/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/your-username/your-repo-name/releases)
@@ -66,7 +65,7 @@ Mitra is a full-stack charity donation platform that allows users to donate seam
 
 #### Clone the Repository
 ```sh
-git clone https://github.com/your-username/mitra-charity-donation.git
+git clone https://github.com/Fanibhusana/mitra.git
 cd mitra-charity-donation
 ```
 
@@ -148,10 +147,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-
+- **Author**: Fanibhusana
 ---
-
-*This README was generated with ❤️ by [GitHub Copilot](https://github.com/features/copilot)*
