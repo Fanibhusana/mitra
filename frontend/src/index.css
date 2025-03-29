@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+    --background-gradient: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+    --card-gradient: linear-gradient(135deg, #E0F7F9 0%, #B2E8F8 100%);
+    --button-gradient: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    --text-gradient: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%),
+    linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+    --nav-footer-gradient: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+/* Apply Background */
+.bg-background {
+    background: var(--background-gradient);
+}
+
+.bg-card {
+    background: var(--card-gradient);
+}
+
+.bg-button {
+    background: var(--button-gradient);
+}
+
+/* Text Gradient */
+.text-gradient {
+    background: var(--text-gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-blend-mode: multiply;
+}
+
+/* Navbar & Footer */
+.bg-nav-footer {
+    background: var(--nav-footer-gradient);
+}
+/* Add this CSS to your stylesheet */
+@keyframes bgScrollAnimation {
+    0% { background-position: center top; }
+    25% { background-position: center top 25%; }
+    50% { background-position: center center; }
+    75% { background-position: center bottom 25%; }
+    100% { background-position: center bottom; }
+}
+
+.bg-animated-background {
+    animation: bgScrollAnimation 50s ease-in-out infinite;
+}
